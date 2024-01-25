@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sting", "Sting\Sting.vcxproj", "{52164F99-F0AC-46E6-8E71-613C56D2A5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Debug|x64.ActiveCfg = Debug|x64
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Debug|x64.Build.0 = Debug|x64
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Debug|x86.Build.0 = Debug|Win32
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Release|x64.ActiveCfg = Release|x64
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Release|x64.Build.0 = Release|x64
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Release|x86.ActiveCfg = Release|Win32
+		{52164F99-F0AC-46E6-8E71-613C56D2A5AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050E2D60-4CD6-4ECF-9C63-43E242ADAA3B}
+	EndGlobalSection
+EndGlobal
